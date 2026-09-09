@@ -1,0 +1,7 @@
+{
+  "name": "LUMORA Cosmetics",
+  "description": "3D animated luxury cosmetics experience featuring interactive botanical skincare, glowing lip gloss, and beauty collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
